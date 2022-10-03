@@ -7,8 +7,9 @@ Below I present the current skills and knowledge acquired in this field.
  - [Charles Web Debugging Proxy](https://www.charlesproxy.com/) - A cross-platform HTTP debugging proxy server application, also used to collect logs.
  - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
  - [HandBrake](https://handbrake.fr/) - Tool to converting video from nearly any format to a selection of modern, widely supported codecs. 
+ - [Corel Draw](https://www.coreldraw.com/pl/)
 # Tech skills
-- SQL
+- The basics of SQL, HTML, CSS
 - DevTools
 - SCRUM, KANBAN
 - Exploratory testing
