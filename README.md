@@ -11,7 +11,6 @@ Below I present the current skills and knowledge acquired in this field.
 # Tech skills
 - The basics of SQL, HTML, CSS
 - DevTools
-- SCRUM, KANBAN
 - Exploratory testing
-- Creating test cases
+- Executing test cases
 - Reporting bugs
