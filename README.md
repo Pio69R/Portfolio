@@ -15,7 +15,7 @@ Below I present the current skills and knowledge acquired in this field.
 - Executing test cases
 - Reporting bugs
 # Podcasty - Spotify
-[Developer Wannabe](https://open.spotify.com/show/7jl6JNP3rDflXoLhLaBTie)
-[Testowanie Oprogramowania Podcast by Ping](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd)
-#Blogi
-[https://remigiuszbednarczyk.pl/jak-zostac-testerem](https://remigiuszbednarczyk.pl/jak-zostac-testerem)
+- [Developer Wannabe](https://open.spotify.com/show/7jl6JNP3rDflXoLhLaBTie)
+- [Testowanie Oprogramowania Podcast by Ping](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd)
+# Blogi
+- [https://remigiuszbednarczyk.pl/jak-zostac-testerem](https://remigiuszbednarczyk.pl/jak-zostac-testerem)
