@@ -14,6 +14,7 @@ Below I present the current skills and knowledge acquired in this field.
 - Reporting bugs
 - The basics of SQL, HTML, CSS
 - DevTools
+- Knowledge of software testing at the ISTQB level - in progress
 # Podcasts - Spotify
 - [Developer Wannabe](https://open.spotify.com/show/7jl6JNP3rDflXoLhLaBTie)
 - [Testowanie Oprogramowania Podcast by Ping](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd)
