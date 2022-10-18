@@ -9,13 +9,17 @@ Below I present the current skills and knowledge acquired in this field.
  - [HandBrake](https://handbrake.fr/) - Tool to converting video from nearly any format to a selection of modern, widely supported codecs. 
  - [Corel Draw](https://www.coreldraw.com/pl/)
 # Tech skills
-- The basics of SQL, HTML, CSS
-- DevTools
 - Exploratory testing
 - Executing test cases
 - Reporting bugs
-# Podcasty - Spotify
+- The basics of SQL, HTML, CSS
+- DevTools
+# Podcasts - Spotify
 - [Developer Wannabe](https://open.spotify.com/show/7jl6JNP3rDflXoLhLaBTie)
 - [Testowanie Oprogramowania Podcast by Ping](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd)
-# Blogi
+# Blogs, thematic pages
 - [https://remigiuszbednarczyk.pl/jak-zostac-testerem](https://remigiuszbednarczyk.pl/jak-zostac-testerem)
+- [https://testerzy.pl/] - (https://testerzy.pl/)
+- [https://www.guru99.com/] - (https://www.guru99.com/)
+# Certificates
+- ECDL
