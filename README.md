@@ -19,7 +19,7 @@ Below I present the current skills and knowledge acquired in this field.
 - [Testowanie Oprogramowania Podcast by Ping](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd)
 # Blogs, thematic pages
 - [https://remigiuszbednarczyk.pl/jak-zostac-testerem](https://remigiuszbednarczyk.pl/jak-zostac-testerem)
-- [https://testerzy.pl/] - (https://testerzy.pl/)
-- [https://www.guru99.com/] - (https://www.guru99.com/)
+- [https://testerzy.pl](https://testerzy.pl)
+- [https://www.guru99.com](https://www.guru99.com)
 # Certificates
 - ECDL
