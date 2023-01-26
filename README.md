@@ -15,12 +15,19 @@ Below I present the current skills and knowledge acquired in this field.
 - The basics of SQL, HTML, CSS
 - DevTools
 - Knowledge of software testing at the ISTQB level - in progress
+- Python - in progress
 # Podcasts - Spotify
 - [Developer Wannabe](https://open.spotify.com/show/7jl6JNP3rDflXoLhLaBTie)
-- [Testowanie Oprogramowania Podcast by Ping](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd)
+- [Testowanie Oprogramowania Podcast by Ping](https://open.spotify.com/show/7jqDWVuJ7YSX4ep1a5tMMd)]
+- [Po szklanie i na testowanie](https://open.spotify.com/show/3kWG4pdHR9NIIGAMYTlpK3)
 # Blogs, thematic pages
 - [https://remigiuszbednarczyk.pl/jak-zostac-testerem](https://remigiuszbednarczyk.pl/jak-zostac-testerem)
 - [https://testerzy.pl](https://testerzy.pl)
 - [https://www.guru99.com](https://www.guru99.com)
-# Certificates
+# Certificates and courses
 - ECDL
+- Praktyczny kurs testowania oprogramowania on Udemy - in progress
+- https://www.linkedin.com/learning/certificates/096c46d31687402a4696eea48bac981276d5d06125ff4f45b45ffdc21fb7d413
+- https://www.sololearn.com/certificates/CT-BXCZCPQG
+- https://www.sololearn.com/certificates/CT-ZYYYB11B
+- https://www.sololearn.com/certificates/CT-7QTPGMW5
