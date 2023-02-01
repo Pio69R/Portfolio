@@ -26,7 +26,7 @@ Below I present the current skills and knowledge acquired in this field.
 - [https://www.guru99.com](https://www.guru99.com)
 # Certificates and courses
 - ECDL
-- Praktyczny kurs testowania oprogramowania - Udemy
+- [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/) - Udemy
 - https://www.linkedin.com/learning/certificates/096c46d31687402a4696eea48bac981276d5d06125ff4f45b45ffdc21fb7d413
 - https://www.sololearn.com/certificates/CT-BXCZCPQG
 - https://www.sololearn.com/certificates/CT-ZYYYB11B
