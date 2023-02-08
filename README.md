@@ -27,7 +27,7 @@ Below I present the current skills and knowledge acquired in this field.
 # Certificates and courses
 - ECDL
 - [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-63532040-1bd0-42c5-87be-a48866b84e2c/)
-- [Career Essentials in Software Development by Microsoft and LinkedIn] (https://www.linkedin.com/learning/certificates/096c46d31687402a4696eea48bac981276d5d06125ff4f45b45ffdc21fb7d413)
-- https://www.sololearn.com/certificates/CT-BXCZCPQG
+- [Career Essentials in Software Development by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/096c46d31687402a4696eea48bac981276d5d06125ff4f45b45ffdc21fb7d413)
+- [Python for Begginers](https://www.sololearn.com/certificates/CT-BXCZCPQG)
 - https://www.sololearn.com/certificates/CT-ZYYYB11B
 - https://www.sololearn.com/certificates/CT-7QTPGMW5
