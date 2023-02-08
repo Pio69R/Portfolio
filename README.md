@@ -26,8 +26,9 @@ Below I present the current skills and knowledge acquired in this field.
 - [https://www.guru99.com](https://www.guru99.com)
 # Certificates and courses
 - ECDL
-- [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-63532040-1bd0-42c5-87be-a48866b84e2c/)
+- [Praktyczny kurs testowania oprogramowania - Udemy](https://www.udemy.com/certificate/UC-63532040-1bd0-42c5-87be-a48866b84e2c/)
 - [Career Essentials in Software Development by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/096c46d31687402a4696eea48bac981276d5d06125ff4f45b45ffdc21fb7d413)
-- [Python for Begginers](https://www.sololearn.com/certificates/CT-BXCZCPQG)
-- https://www.sololearn.com/certificates/CT-ZYYYB11B
-- https://www.sololearn.com/certificates/CT-7QTPGMW5
+- [Python for Begginers - sololearn](https://www.sololearn.com/certificates/CT-BXCZCPQG)
+- [Python Core - sololearn](https://www.sololearn.com/certificates/CT-ZYYYB11B)
+- [Python Data Structures - sololearn](https://www.sololearn.com/certificates/CT-7QTPGMW5)
+- [Kurs Selenium Python od podstaw - Udemy](https://www.udemy.com/course/kurs-selenium-python/learn/lecture/14505258#overview) - w trakcie
