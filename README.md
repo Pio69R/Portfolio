@@ -31,4 +31,4 @@ Below I present the current skills and knowledge acquired in this field.
 - [Python for Begginers - sololearn](https://www.sololearn.com/certificates/CT-BXCZCPQG)
 - [Python Core - sololearn](https://www.sololearn.com/certificates/CT-ZYYYB11B)
 - [Python Data Structures - sololearn](https://www.sololearn.com/certificates/CT-7QTPGMW5)
-- [Kurs Selenium Python od podstaw - Udemy](https://www.udemy.com/course/kurs-selenium-python/learn/lecture/14505258#overview) - w trakcie
+- [Kurs Selenium Python od podstaw - Udemy](https://www.udemy.com/course/kurs-selenium-python/learn/lecture/14505258#overview) - in progress
