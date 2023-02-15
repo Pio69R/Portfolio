@@ -1,6 +1,7 @@
 # Portfolio
 # About Me
 My name is Piotr Rydzewski. I have an engineering degree in computer science, specialization: information and facility security. I graduated from Warsaw Management University. Recently I became interested in software testing. My goal is to develop knowledge and technical skills in testing. At the moment, I am gaining experience testing mobile and desktop applications by participating in crowdtesting projects. I am also learning Python which I would like to use for test automation.
+
 Below I present the current skills and knowledge acquired in this field.
 # Tools
  - [Jira](https://www.atlassian.com/software/jira/work-management), [Trello](https://trello.com/) - Issue tracking and project management tool for developers
