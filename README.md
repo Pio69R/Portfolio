@@ -9,6 +9,7 @@ Below I present the current skills and knowledge acquired in this field.
  - [ShareX](https://getsharex.com/) - Screen capture, file sharing and productivity tool.
  - [HandBrake](https://handbrake.fr/) - Tool to converting video from nearly any format to a selection of modern, widely supported codecs. 
  - [Postman](https://www.postman.com/) 
+ - [PyCharm](https://www.jetbrains.com/pycharm/)
  - [Corel Draw](https://www.coreldraw.com/pl/)
 # Tech skills
 - Exploratory testing
